@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/knowledgebase"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/titulo_autor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_alignParentRight="false"
+                android:layout_centerHorizontal="true"
+                android:text="Relações"
+                android:textColor="@android:color/black"
+                android:textSize="50sp" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:paddingLeft="12dp"
+            android:paddingTop="10dp"
+            android:paddingRight="12dp"
+            android:text="Comparação com outras Ciências Sociais"
+            android:textAllCaps="false"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="12dp"
+            android:text='No começo do século XX, sociólogos e antropólogos que conduziam estudos sobre sociedades não-industrializadas ofereceram contribuições à Antropologia. Deve ser notado, entretanto, que mesmo a Antropologia faz pesquisa em sociedades industrializadas; a diferença entre Sociologia e Antropologia tem mais a ver com os problemas teóricos colocados e os métodos de pesquisa do que com os objetos de estudo.\n\nQuanto a Psicologia social, além de se interessar mais pelos comportamentos do que pelas estruturas sociais, ela se preocupa também com as motivações exteriores que levam o indivíduo a agir de uma forma ou de outra. Já o enfoque da Sociologia é na ação dos grupos, na ação geral.\n\nJá a Economia diferencia-se da Sociologia por estudar apenas um aspecto das relações sociais, aquele que se refere a produção e troca de mercadorias. Nesse aspecto, como mostrado por Karl Marx e outros, a pesquisa em Economia é freqüentemente influenciada por teorias sociológicas.\n\nPor fim, a Filosofia social intenta criar uma teoria ou "teorias" da sociedade, objetivando explicar as variâncias no comportamento social em suas ordens moral, estética e históricas. Esforços nesse sentido são visíveis nas obras de modernos teóricos sociais, reunindo um arcabouço de conhecimento que entrelaça a filosofia hegeliana, kantista, a teoria social de Marx e, ao mesmo tempo, Max Weber, utilizando-se de os valores morais e políticos do iluminismo liberal mesclados com os ideais socialistas. À primeira vista, talvez, seja complexo apreender tal abordagem. Entretanto, as obras de Max Horkheimer, Theodor Adorno, Jürgen Habermas, entre outros, representam uma das mais profícuas vertentes da filosofia social, representada por aquilo que ficou conhecido como Teoria Crítica ou, como mais popularmente se diz, Escola de Frankfurt. ' />
+
+    </LinearLayout>
+
+</ScrollView>

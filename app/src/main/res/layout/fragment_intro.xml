@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/knowledgebase"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/titulo_autor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_alignParentRight="false"
+                android:layout_centerHorizontal="true"
+                android:text="Introdução"
+                android:textColor="@android:color/black"
+                android:textSize="50sp" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:padding="12dp"
+            android:text="A Sociologia é uma ciência social que surge em consequência das ideias iluministas e da busca de diferentes intelectuais de compreender a sociedade e suas dinâmicas. O principal fator social que conduz ao surgimento deste campo de conhecimento foi a Revolução Industrial e suas consequências, como a divisão do trabalho e o processo de urbanização. \n\n Autores como Karl Marx, Friedrich Engels, Alexis de Tocqueville, Le Play, Spencer, se dedicaram a estudar os problemas da nova sociedade que surgia na Europa. Em diferentes países começava a aparecer, no século XIX, o interesse de conhecer os problemas sociais e políticos a partir de um ponto de vista científico e todo esse processo indicava o surgimento de um novo campo de conhecimento.\n\n  O nome “Sociologia” foi criado por Auguste Comte, também considerado o pai do positivismo. Comte observava uma transformação da sociedade europeia, mais especificamente da sociedade francesa, em que a sociedade militar e teocrática era substituída por uma sociedade industrial e científica (LALLEMENT, 2008, pg. 71). Essa crise poderia ter consequências catastróficas, e a memória do que havia sido a Revolução Francesa ainda era muito recente para desejar que outras revoltas acontecessem.
+\n\n É assim que surge, no século XIX, a Sociologia, enquanto campo de estudos da sociedade e suas dinâmicas. A sociologia francesa é conhecida como a principal responsável pela institucionalização da disciplina, quando Émile Durkheim foi convidado a ministrar a disciplina em Bordéus em 1887. Assim sendo, foi primeiramente na França que a disciplina passou a ser considerada uma ciência e a fazer parte das disciplinas universitárias.
+\n\n Émile Durkheim, foi na verdade o primeiro a estabelecer um método sociológico e a definir o objeto de análise dessa disciplina, é por isso que ele também é considerado um dos pais da Sociologia. Assim como Comte, Durkheim também pretendia entender a sociedade e seus problemas para evitar crises e revoltas sociais. O problema que mais o inquietava era o da anomia social, ou seja, a falta de solidariedade e o crescimento do individualismo. Ele também foi responsável por conceituar o fato social enquanto saber coletivo, formas de agir e pensar, que coagem os indivíduos.
+\n\n Outro autor que também é considerado um dos fundadores da sociologia é Gabriel Tarde. Ele também se dedicou a compreender o que constitui o vínculo social e o fato social, mas sua teoria se distanciava da de Durkheim por considerar que o fato social poderia ser definido a partir das interações entre as consciências individuais. Para Tarde o fundamento do vínculo social era a imitação, os homens imitam os atos dos outros homens e ao reunirem esses atos em comum, de pequenas ações, de modos de pensar, essas similitudes formam um conjunto, o coletivo.
+\n\n Por fim, é na virada do século XIX para o XX que a Sociologia realmente se estabelece como uma ciência e uma disciplina universitária. Foi na França, na Alemanha, nos Estados Unidos e na Inglaterra que surgiram suas principais teorias. E autores como Max Weber, Georg Simmel, Thorstein Veblen, Robert E. Park, dentre outros são também importantes neste início.
+\n\n Referências Bibliográficas:
+\n\n LALLEMENT, M. História das ideias sociológicas: das origens a Max Weber. Petropólis, RJ: Vozes, 2008.
+\n\n BERTHELOT, J.M. Que sais-je? Paris, PUF, 1991.
+" />
+
+    </LinearLayout>
+
+</ScrollView>
