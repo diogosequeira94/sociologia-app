@@ -19,6 +19,7 @@ import com.example.sociologiaapp.Activity.MainActivity;
 import com.example.sociologiaapp.Fragmentos.AutoresF;
 import com.example.sociologiaapp.Fragmentos.ItemRecycler;
 import com.example.sociologiaapp.R;
+import com.shashank.sony.fancytoastlib.FancyToast;
 
 import java.util.List;
 
@@ -71,7 +72,7 @@ public class MyAdapter extends PagerAdapter{
             @Override
             public void onClick(View view) {
                 //Click to view, here you can add startActivity
-                Toast.makeText(context, "Clique abaixo para saber mais sobre "+movieList.get(position).getName(),Toast.LENGTH_SHORT).show();
+                FancyToast.makeText(context,"Clique no botão para saber mais sobre "+movieList.get(position).getName(),FancyToast.LENGTH_SHORT,FancyToast.INFO,false).show();
             }
         });
 

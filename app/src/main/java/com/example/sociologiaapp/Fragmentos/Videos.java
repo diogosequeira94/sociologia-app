@@ -28,6 +28,7 @@ import com.example.sociologiaapp.RecyclerConceitos.RecyclerItemClickListener;
 import com.example.sociologiaapp.SplashScreen.SplashScreen;
 import com.hitomi.cmlibrary.CircleMenu;
 import com.hitomi.cmlibrary.OnMenuSelectedListener;
+import com.shashank.sony.fancytoastlib.FancyToast;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -159,7 +160,7 @@ public class Videos extends Fragment implements Serializable {
 
                             case 0:
 
-                                Toast.makeText(getContext(),"Introdução", Toast.LENGTH_SHORT).show();
+                                FancyToast.makeText(getContext(),"Introdução",FancyToast.LENGTH_SHORT,FancyToast.SUCCESS,false).show();
                                 new Handler().postDelayed(new Runnable() {
                                     @Override
                                     public void run() {
@@ -171,7 +172,7 @@ public class Videos extends Fragment implements Serializable {
                                 }, 1200);
                                 break;
                             case 1:
-                                Toast.makeText(getContext(),"Autores", Toast.LENGTH_SHORT).show();
+                                FancyToast.makeText(getContext(),"Autores",FancyToast.LENGTH_SHORT,FancyToast.SUCCESS,false).show();
                                 new Handler().postDelayed(new Runnable() {
                                     @Override
                                     public void run() {
@@ -185,7 +186,7 @@ public class Videos extends Fragment implements Serializable {
 
                                 break;
                             case 2:
-                                Toast.makeText(getContext(),"Ted Talks", Toast.LENGTH_SHORT).show();
+                                FancyToast.makeText(getContext(),"Ted Talks",FancyToast.LENGTH_SHORT,FancyToast.SUCCESS,false).show();
                                 new Handler().postDelayed(new Runnable() {
                                     @Override
                                     public void run() {
@@ -198,7 +199,7 @@ public class Videos extends Fragment implements Serializable {
                                 break;
                             case 3:
 
-                                Toast.makeText(getContext(),"Política", Toast.LENGTH_SHORT).show();
+                                FancyToast.makeText(getContext(),"Política",FancyToast.LENGTH_SHORT,FancyToast.SUCCESS,false).show();
 
                                 new Handler().postDelayed(new Runnable() {
                                     @Override
