@@ -10,6 +10,8 @@ Built as a study method for my sociology exam in University.
 - Picasso
 </br>
 <h4> Screenshots </h4>
+</br>
+
 ![](20190424_172344.gif)
 
 
