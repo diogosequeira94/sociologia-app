@@ -7,7 +7,9 @@ Built as a study method for my sociology exam in University.
 </br>
 <h4> Libraries Used </h4>
 - Material Search View </br>
-- Picasso
+- Picasso </br>
+- RoundKornerLayouts </br>
+- Infinite Cycle ViewPager
 </br>
 <h4> Screenshots </h4>
 </br>
