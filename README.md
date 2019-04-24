@@ -16,4 +16,12 @@ Built as a study method for my sociology exam in University.
 
 ![Sociologia App](demo/20190424_172344.gif)
 
+<h4> What I've Learned </h4>
+
+•	While coding this app I gained deeper knowledge how Fragments and Activities interact, their lifecycles and when to use them. 
+•	Learnt about Threads. 
+•	Improved my problem-solving skills and managed time correctly. 
+•	Pushed myself to a deadline of 5 days to finish the app and accomplished it.
+
+
 
