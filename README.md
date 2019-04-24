@@ -18,10 +18,10 @@ Built as a study method for my sociology exam in University.
 
 <h4> What I've Learned </h4>
 
-•	While coding this app I gained deeper knowledge how Fragments and Activities interact, their lifecycles and when to use them. 
-•	Learnt about Threads. 
-•	Improved my problem-solving skills and managed time correctly. 
-•	Pushed myself to a deadline of 5 days to finish the app and accomplished it.
+•	While coding this app I gained deeper knowledge how Fragments and Activities interact, their lifecycles and when to use them. </br>
+•	Learnt about Threads. </br>
+•	Improved my problem-solving skills and managed time correctly. </br>
+•	Pushed myself to a deadline of 5 days to finish the app and accomplished it. </br>
 
 
 
