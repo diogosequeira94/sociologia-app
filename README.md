@@ -12,7 +12,6 @@ Built as a study method for my sociology exam in University.
 <h4> Screenshots </h4>
 </br>
 
-![](20190424_172344.gif)
-
+![Farmers Market Finder Demo](demo/20190424_172344.gif)
 
 
