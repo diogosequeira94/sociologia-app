@@ -11,9 +11,9 @@ Built as a study method for my sociology exam in University.
 - RoundKornerLayouts </br>
 - Infinite Cycle ViewPager
 </br>
-<h4> Screenshots </h4>
+<h4> Demo </h4>
 </br>
 
-![Farmers Market Finder Demo](demo/20190424_172344.gif)
+![Sociologia App](demo/20190424_172344.gif)
 
 
